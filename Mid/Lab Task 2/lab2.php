@@ -34,6 +34,16 @@
                     Confirm Passwrod:
                 </td>
             </tr>
+            <tr>
+                <td>
+                    <input
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <button> Register</button>
+                </td>
+            </tr>
             
         </table>
 
