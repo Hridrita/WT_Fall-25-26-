@@ -15,7 +15,7 @@ foreach($products as $product){
     echo "$product <br>";
 }
 
-?
+?>
 
 
 
